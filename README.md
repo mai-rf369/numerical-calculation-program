@@ -1,12 +1,12 @@
 # Numerical-Calculation-Program
 ### Program
  - [Bisection-Method](./program/bisection-method/)
- - [Newton-Raphson-Method](./program/newton-raphson-method/)
  - [Euler-Method](./program/euler-method/)
- - [Runge-Kutta-Method](./program/runge-kutta-method/)
- - [Gauss-Method](./program/gauss-method/)
  - [Gauss-Jordan-Method](./program/gauss-jordan-method/)
+ - [Gauss-Method](./program/gauss-method/)
  - [Gauss-Seidel-Method](./program/gauss-seidel-method/)
- - [Jacobi-Method](./program/jacobi-method/)
  - [Heun-Method](./program/heun-method/)
+ - [Jacobi-Method](./program/jacobi-method/)
  - [Least-Squares-Method](./program/least-squares-method/)
+ - [Newton-Raphson-Method](./program/newton-raphson-method/)
+ - [Runge-Kutta-Method](./program/runge-kutta-method/)
