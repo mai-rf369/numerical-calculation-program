@@ -1,2 +1,2 @@
-# numerical-calculation-program
+# Numerical-Calculation-Program
  
