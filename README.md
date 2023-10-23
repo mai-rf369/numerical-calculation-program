@@ -10,3 +10,11 @@
  - [Least-Squares-Method](./program/least-squares-method/)
  - [Newton-Raphson-Method](./program/newton-raphson-method/)
  - [Runge-Kutta-Method](./program/runge-kutta-method/)
+#### Moving Average
+ - [Cumulative-Moving-Average-Method](./program/cumulative-moving-average-method/)
+ - [Exponential-Moving-Average-Method](./program/exponential-moving-average-method/)
+ - [Linear-Weighted-Moving-Average-Method](./program/linear-weighted-moving-average-method/)
+ - [Modified-Moving-Average-Method](./program/modified-moving-average-method/)
+ - [Simple-Moving-Average-Method](./program/simple-moving-average-method/)
+ - [Sine-Weighted-Moving-Average-Method](./program/sine-weighted-moving-average-method/)
+ - [Triangular-Moving-Average-Method](./program/triangular-moving-average-method/)
