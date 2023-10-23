@@ -1,20 +1,19 @@
 # Numerical-Calculation-Program
 ### Program
  - [Euler-Method](./program/euler-method/)
- - [Gauss-Jordan-Method](./program/gauss-jordan-method/)
- - [Gauss-Method](./program/gauss-method/)
- - [Gauss-Seidel-Method](./program/gauss-seidel-method/)
  - [Heun-Method](./program/heun-method/)
- - [Jacobi-Method](./program/jacobi-method/)
  - [Least-Squares-Method](./program/least-squares-method/)
  - [Runge-Kutta-Method](./program/runge-kutta-method/)
 #### Nonlinear Equation
  - [Bisection-Method](./program/bisection-method/)
  - [Newton-Raphson-Method](./program/newton-raphson-method/)
-#### Linear Simultaneously Equation
-
-#### Integral
-#### Differential
+#### Simultaneous Linear Equation
+ - [Gauss-Jordan-Method](./program/gauss-jordan-method/)
+ - [Gauss-Method](./program/gauss-method/)
+ - [Gauss-Seidel-Method](./program/gauss-seidel-method/)
+ - [Jacobi-Method](./program/jacobi-method/)
+#### Integral Equation
+#### Differential Equation
 #### Moving Average
  - [Cumulative-Moving-Average-Method](./program/cumulative-moving-average-method/)
  - [Exponential-Moving-Average-Method](./program/exponential-moving-average-method/)
