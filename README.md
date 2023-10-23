@@ -10,7 +10,9 @@
  - [Jacobi-Method](./program/jacobi-method/)
  - [LU-Decomposition-Crout-Method](./program/lu-decomposition-crout-method/)
  - [LU-Decomposition-Doolittle-Method](./program/lu-decomposition-doolittle-method/)
-#### Integral Equation
+#### 1st Order Linear Integral Equation
+ - [Simpson-Rule-Method](./program/simpson-rule-method/)
+ - [Trapezoidal-Rule-Method](./program/trapezoidal-rule-method/)
 #### 1st Order Linear Homogeneous Differential Equation
  - [Euler-Method](./program/euler-method/)
  - [Heun-Method](./program/heun-method/)
