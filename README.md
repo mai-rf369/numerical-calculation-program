@@ -30,3 +30,5 @@
  - [Simple-Moving-Average-Method](./program/simple-moving-average-method/)
  - [Sine-Weighted-Moving-Average-Method](./program/sine-weighted-moving-average-method/)
  - [Triangular-Moving-Average-Method](./program/triangular-moving-average-method/)
+#### Fast Fourier Transform
+ - [Fast-Fourier-Transform](./program/fast-fourier-transform/)
