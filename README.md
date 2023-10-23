@@ -12,6 +12,8 @@
  - [Gauss-Method](./program/gauss-method/)
  - [Gauss-Seidel-Method](./program/gauss-seidel-method/)
  - [Jacobi-Method](./program/jacobi-method/)
+ - [LU-Decomposition-Crout-Method](./program/lu-decomposition-crout-method/)
+ - [LU-Decomposition-Doolittle-Method](./program/lu-decomposition-doolittle-method/)
 #### Integral Equation
 #### Differential Equation
 #### Moving Average
