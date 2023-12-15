@@ -19,7 +19,7 @@ $$
 $$
 
 $$
-\vector{B} =
+\vec{B} =
 \begin{pmatrix}
 	b_{0}	\\
 	b_{1}	\\
