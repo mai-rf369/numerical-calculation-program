@@ -99,11 +99,12 @@ $$
 $$
 \begin{align}
 	\begin{pmatrix}
-		a_{0, 0}	& a_{0, 1}	& \cdots	& 0	\\
+		a_{0, 0}	& a_{0, 1}	& a_{0, 2}	& \cdots	& 0	\\
 	\end{pmatrix}
 	\begin{pmatrix}
 		x_{0}	\\
 		x_{1}	\\
+		x_{2}	\\
 		\vdots	\\
 		x_{N-1}	\\
 	\end{pmatrix}
@@ -111,6 +112,7 @@ $$
 	\begin{pmatrix}
 		b_{0}	\\
 		b_{1}	\\
+		b_{2}	\\
 		\vdots	\\
 		b_{N-1}	\\
 	\end{pmatrix}
