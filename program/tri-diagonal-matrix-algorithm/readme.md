@@ -162,7 +162,7 @@ $$
 		b_{1}	\\
 		\vdots	\\
 		b_{N-1}	\\
-	\end{pmatrix}
+	\end{pmatrix}\\
 	\Leftrightarrow &
 	\begin{pmatrix}
 		\frac{1}{a_{0, 0}}	& 0		& \cdots	& 0		\\
