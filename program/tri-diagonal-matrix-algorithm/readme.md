@@ -97,22 +97,24 @@ $$
 
 ### 1st row
 $$
-\begin{pmatrix}
-	a_{0, 0}	& a_{0, 1}	& \cdots	& 0	\\
-\end{pmatrix}
-\begin{pmatrix}
-	x_{0}	\\
-	x_{1}	\\
-	\vdots	\\
-	x_{N-1}	\\
-\end{pmatrix}
-=
-\begin{pmatrix}
-	b_{0}	\\
-	b_{1}	\\
-	\vdots	\\
-	b_{N-1}	\\
-\end{pmatrix}
+\begin{align}
+	\begin{pmatrix}
+		a_{0, 0}	& a_{0, 1}	& \cdots	& 0	\\
+	\end{pmatrix}
+	\begin{pmatrix}
+		x_{0}	\\
+		x_{1}	\\
+		\vdots	\\
+		x_{N-1}	\\
+	\end{pmatrix}
+	=
+	\begin{pmatrix}
+		b_{0}	\\
+		b_{1}	\\
+		\vdots	\\
+		b_{N-1}	\\
+	\end{pmatrix}
+\end{align}
 $$
 
 $$
