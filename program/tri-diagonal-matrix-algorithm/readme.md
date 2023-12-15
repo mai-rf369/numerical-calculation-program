@@ -2,7 +2,8 @@
 ## Algorithm
 
 $$
-\vec{A} =
+\vec{A}
+=
 \begin{pmatrix}
 	a_{0, 0}	& a_{0, 1}	& 0		& \cdots	& 0		& 0		& 0		& \cdots	& 0		& 0		& 0		\\
 	a_{1, 0}	& a_{1, 1}	& a_{1, 2}	& \cdots	& 0		& 0		& 0		& \cdots	& 0		& 0		& 0		\\
@@ -14,7 +15,20 @@ $$
 	\vdots		& \vdots	& \vdots	& 		& \vdots	& \vdots	& \vdots	& \ddots	& \vdots	& \vdots	& \vdots	\\
 	0		& 0		& 0		& \cdots	& 0		& 0		& 0		& \cdots	& a_{N-3, N-3}	& a_{N-3, N-2}	& 0		\\
 	0		& 0		& 0		& \cdots	& 0		& 0		& 0		& \cdots	& a_{N-2, N-3}	& a_{N-2, N-2}	& a_{N-2, N-1}	\\
-	0		& 0		& 0		& \cdots	& 0		& 0		& 0		& \cdots	& 0		& a_{N-1, N-2}	& a_{N-1, N-1}	\\
+	0		& 0		& 0		& \cdots	& 0		& 0		& 0		& \cdots	& 0		& a_{N-1, N-2}	& a_{N-1, N-1}
 \end{pmatrix}
 $$
 
+$$
+\vec{B}
+=
+\begin{pmatrix}
+	b_{0}	\\
+	b_{1}	\\
+	b_{2}	\\
+	\vdots	\\
+	b_{N-3}	\\
+	b_{N-2}	\\
+	b_{N-1}
+\end{pmatrix}
+$$
