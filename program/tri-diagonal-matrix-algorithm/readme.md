@@ -263,7 +263,10 @@ $$
 	\end{pmatrix}
 	\begin{pmatrix}
 		x_{0}	\\
-		x_{1}	\\
+		\vdots	\\
+		x_{i-1}	\\
+		x_{i}	\\
+		x_{i+1}	\\
 		\vdots	\\
 		x_{N-1}	\\
 	\end{pmatrix}
