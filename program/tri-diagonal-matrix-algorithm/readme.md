@@ -2,7 +2,7 @@
 ## Algorithm
 
 
-$
+$$
 \vec{A} =
 \begin{pmatrix}
 	a_{0, 0}	& a_{0, 1}	& 0		& \cdots	& 0		& 0		& 0		& \cdots	& 0		& 0		& 0		\\
@@ -17,9 +17,7 @@ $
 	0		& 0		& 0		& \cdots	& 0		& 0		& 0		& \cdots	& a_{N-2, N-3}	& a_{N-2, N-2}	& a_{N-2, N-1}	\\
 	0		& 0		& 0		& \cdots	& 0		& 0		& 0		& \cdots	& 0		& a_{N-1, N-2}	& a_{N-1, N-1}	\\
 \end{pmatrix}
-$
-
-$
+,
 \vec{X} =
 \begin{pmatrix}
 	x_{0}	\\
@@ -34,9 +32,7 @@ $
 	x_{N-2}	\\
 	x_{N-1}	\\
 \end{pmatrix}
-$
-
-$
+,
 \vec{B} =
 \begin{pmatrix}
 	b_{0}	\\
@@ -51,7 +47,7 @@ $
 	b_{N-2}	\\
 	b_{N-1}	\\
 \end{pmatrix}
-$
+$$
 
 $$
 \begin{align}
