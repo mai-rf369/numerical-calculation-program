@@ -17,11 +17,7 @@ $$
 	0		& 0		& 0		& \cdots	& 0		& 0		& 0		& \cdots	& a_{N-2, N-3}	& a_{N-2, N-2}	& a_{N-2, N-1}	\\
 	0		& 0		& 0		& \cdots	& 0		& 0		& 0		& \cdots	& 0		& a_{N-1, N-2}	& a_{N-1, N-1}
 \end{pmatrix}
-$$
 
-aaa
-
-$$
 \vec{B}
 =
 \begin{pmatrix}
