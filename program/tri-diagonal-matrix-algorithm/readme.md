@@ -18,6 +18,7 @@ $
 	0		& 0		& 0		& \cdots	& 0		& 0		& 0		& \cdots	& 0		& a_{N-1, N-2}	& a_{N-1, N-1}	\\
 \end{pmatrix}
 $
+
 $
 \vec{X} =
 \begin{pmatrix}
@@ -34,6 +35,7 @@ $
 	x_{N-1}	\\
 \end{pmatrix}
 $
+
 $
 \vec{B} =
 \begin{pmatrix}
