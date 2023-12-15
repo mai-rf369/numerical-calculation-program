@@ -145,18 +145,21 @@ $$
 $$
 \begin{align}
 	\begin{pmatrix}
-		a_{0, 0}	& a_{0, 1}	& 0		& \cdots	& 0		\\
-		\vdots		& \vdots	& \vdots	& \ddots	& \vdots	\\
-		0		& 0		& 0		& \cdots	& a_{N-1, N-1}	\\
+		a_{0, 0}	& a_{0, 1}	& \cdots	& 0		\\
+		a_{1, 0}	& a_{1, 1}	& \cdots	& 0		\\
+		\vdots		& \vdots	& \ddots	& \vdots	\\
+		0		& 0		& \cdots	& a_{N-1, N-1}	\\
 	\end{pmatrix}
 	\begin{pmatrix}
 		x_{0}	\\
+		x_{1}	\\
 		\vdots	\\
 		x_{N-1}	\\
 	\end{pmatrix}
 	=
 	\begin{pmatrix}
 		b_{0}	\\
+		b_{1}	\\
 		\vdots	\\
 		b_{N-1}	\\
 	\end{pmatrix}
