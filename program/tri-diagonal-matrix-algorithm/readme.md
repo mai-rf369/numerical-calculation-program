@@ -97,6 +97,25 @@ $$
 
 ### 1st row
 $$
+\begin{pmatrix}
+	a_{0, 0}	& a_{0, 1}	& \cdots	& 0	\\
+\end{pmatrix}
+\begin{pmatrix}
+	x_{0}	\\
+	x_{1}	\\
+	\vdots	\\
+	x_{N-1}	\\
+\end{pmatrix}
+=
+\begin{pmatrix}
+	b_{0}	\\
+	b_{1}	\\
+	\vdots	\\
+	b_{N-1}	\\
+\end{pmatrix}
+$$
+
+$$
 \begin{align}
 	x_{0} + a_{0, 1}^{'} x_{1} =& b_{0}^{'}
 \end{align}
@@ -118,4 +137,11 @@ $$
 	a_{0, 0}^{'} =& 1\\
 \end{align}
 \right.
+$$
+
+### ith row
+$$
+\begin{align}
+	x_{i} + a_{i, i+1}^{'} x_{i+1} =& b_{0}^{'}
+\end{align}
 $$
