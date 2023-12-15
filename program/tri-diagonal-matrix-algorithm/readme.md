@@ -19,6 +19,19 @@ $$
 $$
 
 $$
+\vec{X} =
+\begin{pmatrix}
+	x_{0}	\\
+	x_{1}	\\
+	x_{2}	\\
+	\vdots	\\
+	x_{N-3}	\\
+	x_{N-2}	\\
+	x_{N-1}	\\
+\end{pmatrix}
+$$
+
+$$
 \vec{B} =
 \begin{pmatrix}
 	b_{0}	\\
@@ -29,4 +42,8 @@ $$
 	b_{N-2}	\\
 	b_{N-1}	\\
 \end{pmatrix}
+$$
+
+$$
+\vec{A} \vec{X} = \vec{B}
 $$
