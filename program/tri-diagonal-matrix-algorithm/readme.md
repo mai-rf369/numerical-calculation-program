@@ -250,7 +250,35 @@ $$
 $$
 
 #### i-1th row
-
+$$
+\begin{align}
+	& \begin{pmatrix}
+		1	& \cdots	& 0		& 0			& 0		& \cdots	& 0		\\
+		\vdots	& \ddots	& \vdots	& \vdots		& \vdots	& 		& \vdots	\\
+		0	& \cdots	& 1		& a_{i-1, i}^{'}	& 0		& \cdots	& 0		\\
+		0	& \cdots	& a_{i, i-1}	& a_{i, i}		& a_{i, i+1}	& \cdots	& 0		\\
+		0	& \cdots	& 0		& a_{i+1, i}		& a_{i+1, i+1}	& \cdots	& 0		\\
+		\vdots	& 		& \vdots	& \vdots		& \vdots	& \ddots	& \vdots	\\
+		0	& \cdots	& 0		& 0			& 0		& \cdots	& a_{N-1, N-1}	\\
+	\end{pmatrix}
+	\begin{pmatrix}
+		x_{0}	\\
+		x_{1}	\\
+		\vdots	\\
+		x_{N-1}	\\
+	\end{pmatrix}
+	=
+	\begin{pmatrix}
+		b_{0}^{'}	\\
+		\vdots		\\
+		b_{i-1}^{'}	\\
+		b_{i}		\\
+		b_{i+1}		\\
+		\vdots		\\
+		b_{N-1}		\\
+	\end{pmatrix}\\
+\end{align}
+$$
 
 
 #### N-1th row
