@@ -19,18 +19,3 @@ $$
 \end{pmatrix}
 $$
 
-$$
-\vec{B}
-=
-\left(
-\begin{array}
-	b_{0}	\\
-	b_{1}	\\
-	b_{2}	\\
-	\vdots	\\
-	b_{N-3}	\\
-	b_{N-2}	\\
-	b_{N-1}	\\
-\end{array}
-\right)
-$$
