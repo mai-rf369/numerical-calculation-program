@@ -149,3 +149,26 @@ $$
 	x_{i} + a_{i, i+1}^{'} x_{i+1} =& b_{0}^{'}
 \end{align}
 $$
+
+$$
+\begin{align}
+	\begin{pmatrix}
+		0		& \cdots	& a_{i, i-1}		& a_{i, i}	& a_{i, i+1}	& \cdots	& 0	\\
+	\end{pmatrix}
+	\begin{pmatrix}
+		x_{0}	\\
+		x_{1}	\\
+		x_{2}	\\
+		\vdots	\\
+		x_{N-1}	\\
+	\end{pmatrix}
+	=
+	\begin{pmatrix}
+		b_{0}	\\
+		b_{1}	\\
+		b_{2}	\\
+		\vdots	\\
+		b_{N-1}	\\
+	\end{pmatrix}
+\end{align}
+$$
