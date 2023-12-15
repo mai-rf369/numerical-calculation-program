@@ -99,6 +99,7 @@ $$
 
 ### 1st row
 $$
+\begin{align}
 &\begin{pmatrix}
 	a_{0, 0}	& a_{0, 1}	& 0		& \cdots	& 0		\\
 	\vdots		& \vdots	& \vdots	& \ddots	& \vdots	\\
@@ -140,6 +141,7 @@ $$
 	\vdots		\\
 	b_{N-1}		\\
 \end{pmatrix}
+\end{align}
 $$
 
 $$
