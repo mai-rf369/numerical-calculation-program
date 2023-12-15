@@ -142,7 +142,26 @@ $$
 $$
 
 #### 0th row
-
+$$
+\begin{align}
+	\begin{pmatrix}
+		a_{0, 0}	& a_{0, 1}	& 0		& \cdots	& 0		\\
+		\vdots		& \vdots	& \vdots	& \ddots	& \vdots	\\
+		0		& 0		& 0		& \cdots	& a_{N-1, N-1}	\\
+	\end{pmatrix}
+	\begin{pmatrix}
+		x_{0}	\\
+		\vdots	\\
+		x_{N-1}	\\
+	\end{pmatrix}
+	=
+	\begin{pmatrix}
+		b_{0}	\\
+		\vdots	\\
+		b_{N-1}	\\
+	\end{pmatrix}
+\end{align}
+$$
 
 ### Step 2
 
