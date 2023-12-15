@@ -121,10 +121,7 @@ $$
 		b_{N-1}	\\
 	\end{pmatrix}
 \end{align}
-$$
-
-$$
-\text{object}:
+\rightarrow
 \begin{align}
 	\begin{pmatrix}
 		1		& a_{0, 1}^{'}	& 0		& \cdots	& 0		\\
