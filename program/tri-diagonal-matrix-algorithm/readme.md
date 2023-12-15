@@ -1,6 +1,7 @@
 # Numerical-Calculation-Program - Tri-Diagonal-Matrix-Algorithm
 ## Algorithm
 
+
 $$
 \vec{A} =
 \begin{pmatrix}
@@ -96,4 +97,12 @@ $$
 		b_{N-1}	\\
 	\end{pmatrix}
 \end{align}
+$$
+
+### 1st row
+$$
+\begin{array}
+	a_{0, 0} x_{0} + a_{0, 1} x_{1} =& b_{0}\\
+	\frac{a_{0, 0}}{a_{0, 0}} x_{0} + \frac{a_{0, 1}}{a_{0, 0}} x_{1} =& \frac{b_{0}}{a_{0, 0}}\\
+\end{array}
 $$
