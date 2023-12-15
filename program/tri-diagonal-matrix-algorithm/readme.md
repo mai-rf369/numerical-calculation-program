@@ -152,6 +152,33 @@ $$
 		0		& 0		& 0		& \cdots	& 0		& 0			& 0			& \cdots	& 0		& 1			& a_{N-2, N-1}^{'}	\\
 		0		& 0		& 0		& \cdots	& 0		& 0			& 0			& \cdots	& 0		& 0			& 1			\\
 	\end{pmatrix}
+	\begin{pmatrix}
+		x_{0}	\\
+		x_{1}	\\
+		x_{2}	\\
+		\vdots	\\
+		x_{i-1}	\\
+		x_{i}	\\
+		x_{i+1}	\\
+		\vdots	\\
+		x_{N-3}	\\
+		x_{N-2}	\\
+		x_{N-1}	\\
+	\end{pmatrix}
+	=
+	\begin{pmatrix}
+		b_{0}^{'}	\\
+		b_{1}^{'}	\\
+		b_{2}^{'}	\\
+		\vdots		\\
+		b_{i-1}^{'}	\\
+		b_{i}^{'}	\\
+		b_{i+1}^{'}	\\
+		\vdots		\\
+		b_{N-3}^{'}	\\
+		b_{N-2}^{'}	\\
+		b_{N-1}^{'}	\\
+	\end{pmatrix}\\
 \end{align}
 $$
 
