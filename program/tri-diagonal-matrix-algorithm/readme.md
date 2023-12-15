@@ -177,6 +177,8 @@ $$
 		0	& \cdots	& 1		& a_{i-1, i}^{'}	& 0		& \cdots	& 0		\\
 		0	& \cdots	& a_{i, i-1}	& a_{i, i}		& a_{i, i+1}	& \cdots	& 0		\\
 		0	& \cdots	& 0		& a_{i+1, i}		& a_{i+1, i+1}	& \cdots	& 0		\\
+		\vdots	& 		& \vdots	& \vdots		& \vdots	& \ddots	& \vdots	\\
+		0	& \cdots	& 0		& 0			& 0		& \cdots	& a_{N-1, N-1}	\\
 	\end{pmatrix}
 	\begin{pmatrix}
 		x_{0}	\\
