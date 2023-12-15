@@ -144,7 +144,7 @@ $$
 #### 0th row
 $$
 \begin{align}
-	\begin{pmatrix}
+	& \begin{pmatrix}
 		a_{0, 0}	& a_{0, 1}	& \cdots	& 0		\\
 		a_{1, 0}	& a_{1, 1}	& \cdots	& 0		\\
 		\vdots		& \vdots	& \ddots	& \vdots	\\
@@ -162,6 +162,13 @@ $$
 		b_{1}	\\
 		\vdots	\\
 		b_{N-1}	\\
+	\end{pmatrix}
+	\Leftrightarrow &
+	\begin{pmatrix}
+		\frac{1}{a_{0, 0}}	& 0		& \cdots	& 0		\\
+		0			& 1		& \cdots	& 0		\\
+		\vdots			& \vdots	& \ddots	& \vdots	\\
+		0			& 0		& \cdots	& 1		\\
 	\end{pmatrix}
 \end{align}
 $$
