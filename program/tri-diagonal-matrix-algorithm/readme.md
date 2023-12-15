@@ -99,7 +99,9 @@ $$
 $$
 \begin{align}
 	\begin{pmatrix}
-		a_{0, 0}	& a_{0, 1}	& 0		& \cdots	& 0	\\
+		a_{0, 0}	& a_{0, 1}	& 0		& \cdots	& 0		\\
+		\vdots		& \vdots	& \vdots	& \ddots	& \vdots	\\
+		0		& 0		& 0		& \cdots	& a_{N-1, N-1}	\\
 	\end{pmatrix}
 	\begin{pmatrix}
 		x_{0}	\\
