@@ -97,7 +97,7 @@ $$
 \end{align}
 $$
 
-### 1st row
+### 0th row
 $$
 \begin{align}
 	\begin{pmatrix}
