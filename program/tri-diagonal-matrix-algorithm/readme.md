@@ -238,6 +238,16 @@ $$
 \end{align}
 $$
 
+$$
+\left\lbrace
+\begin{array}
+	a_{0, 0}^{'}	&=& 1				\\
+	a_{0, 1}^{'}	&=& \frac{a_{0, 1}}{a_{0, 0}}	\\
+	b_{0}^{'}	&=& \frac{b_{0}}{a_{0, 0}}	\\
+\end{array}
+\right.
+$$
+
 ### Step 2
 
 
