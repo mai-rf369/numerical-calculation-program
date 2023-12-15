@@ -280,6 +280,7 @@ $$
 		\vdots		\\
 		b_{N-1}		\\
 	\end{pmatrix}\\
+	\text{Subtract the i-1th row by } a_{i, i-1} \text{ times the i-2th row}	\\
 \end{align}
 $$
 
