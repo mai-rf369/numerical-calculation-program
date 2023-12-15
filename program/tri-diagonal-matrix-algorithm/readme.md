@@ -120,7 +120,7 @@ $$
 		\vdots	\\
 		b_{N-1}	\\
 	\end{pmatrix}\\
-	\text{\rightarrow}&
+	\rightarrow &
 	\begin{pmatrix}
 		1		& a_{0, 1}^{'}	& 0		& \cdots	& 0		\\
 		\vdots		& \vdots	& \vdots	& \ddots	& \vdots	\\
