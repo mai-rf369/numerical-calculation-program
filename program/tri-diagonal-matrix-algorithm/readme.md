@@ -12,6 +12,9 @@ $$
 	0		& 0		& 0		& \cdots	& 		& 		& 		& \cdots	& 0		& 0		& 0		\\
 	0		& 0		& 0		& \cdots	& 		& 		& 		& \cdots	& 0		& 0		& 0		\\
 	\vdots		& \vdots	& \vdots	& 		& \vdots	& \vdots	& \vdots	& \ddots	& \vdots	& \vdots	& \vdots	\\
+	0		& 0		& 0		& \cdots	& 0		& 0		& 0		& \cdots	& 		& 		& 		\\
+	0		& 0		& 0		& \cdots	& 0		& 0		& 0		& \cdots	& 		& 		& 		\\
+	0		& 0		& 0		& \cdots	& 0		& 0		& 0		& \cdots	& 		& 		& 		\\
 \end{pmatrix}
 $$
 
