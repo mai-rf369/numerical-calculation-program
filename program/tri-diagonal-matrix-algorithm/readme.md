@@ -17,10 +17,13 @@ $$
 	0		& 0		& 0		& \cdots	& 0		& 0		& 0		& \cdots	& a_{N-2, N-3}	& a_{N-2, N-2}	& a_{N-2, N-1}	\\
 	0		& 0		& 0		& \cdots	& 0		& 0		& 0		& \cdots	& 0		& a_{N-1, N-2}	& a_{N-1, N-1}
 \end{pmatrix}
+$$
 
+$$
 \vec{B}
 =
-\begin{pmatrix}
+\left(
+\begin{array}
 	b_{0}	\\
 	b_{1}	\\
 	b_{2}	\\
@@ -28,5 +31,6 @@ $$
 	b_{N-3}	\\
 	b_{N-2}	\\
 	b_{N-1}
-\end{pmatrix}
+\end{array}
+\right)
 $$
