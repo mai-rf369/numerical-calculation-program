@@ -18,3 +18,15 @@ $$
 \end{pmatrix}
 $$
 
+$$
+\vector{B} =
+\begin{pmatrix}
+	b_{0}	\\
+	b_{1}	\\
+	b_{2}	\\
+	\vdots	\\
+	b_{N-3}	\\
+	b_{N-2}	\\
+	b_{N-1}	\\
+\end{pmatrix}
+$$
