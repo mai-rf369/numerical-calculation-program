@@ -163,6 +163,7 @@ $$
 		\vdots	\\
 		b_{N-1}	\\
 	\end{pmatrix}\\
+	\text{Divide the 0th row by} a_{0, 0} \\
 	\Leftrightarrow &
 	\begin{pmatrix}
 		\frac{1}{a_{0, 0}}	& 0		& \cdots	& 0		\\
