@@ -159,16 +159,20 @@ $$
 	\end{pmatrix}
 	\begin{pmatrix}
 		x_{0}	\\
-		x_{1}	\\
-		x_{2}	\\
+		\vdots	\\
+		x_{i-1}	\\
+		x_{i}	\\
+		x_{i+1}	\\
 		\vdots	\\
 		x_{N-1}	\\
 	\end{pmatrix}
 	=
 	\begin{pmatrix}
 		b_{0}	\\
-		b_{1}	\\
-		b_{2}	\\
+		\vdots	\\
+		b_{i-1}	\\
+		b_{i}	\\
+		b_{i+1}	\\
 		\vdots	\\
 		b_{N-1}	\\
 	\end{pmatrix}
