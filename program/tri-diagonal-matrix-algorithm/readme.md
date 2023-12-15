@@ -1,5 +1,5 @@
 # Numerical-Calculation-Program - Tri-Diagonal-Matrix-Algorithm
-## Algorithm
+## Equation
 
 
 $$
@@ -49,8 +49,6 @@ $$
 \end{pmatrix}
 $$
 
-### Equation
-
 $$
 \begin{align}
 	\vec{A} \vec{X} =& \vec{B} \\
@@ -97,6 +95,7 @@ $$
 \end{align}
 $$
 
+## Algorithm
 ### (0)th row
 $$
 \begin{align}
@@ -145,7 +144,7 @@ $$
 $$
 
 $$
-\begin{array}{crcrcr}
+\begin{array}{crcrcc}
 			& a_{0, 0} x_{0}			&+& a_{0, 1} x_{1} 			&=& b_{0}\\
 	\Leftrightarrow & \frac{a_{0, 0}}{a_{0, 0}} x_{0}	&+& \frac{a_{0, 1}}{a_{0, 0}} x_{1}	&=& \frac{b_{0}}{a_{0, 0}}\\
 	\Leftrightarrow & 1 x_{0}				&+& \frac{a_{0, 1}}{a_{0, 0}} x_{1}	&=& \frac{b_{0}}{a_{0, 0}}\\
@@ -163,12 +162,6 @@ $$
 $$
 
 ### (i)th row
-$$
-\begin{align}
-	x_{i} + a_{i, i+1}^{'} x_{i+1} =& b_{0}^{'}
-\end{align}
-$$
-
 $$
 \begin{align}
 	\begin{pmatrix}
@@ -200,6 +193,13 @@ $$
 		b_{N-1}		\\
 	\end{pmatrix}
 \end{align}
+$$
+
+$$
+\begin{array}{crcrcrcc}
+			& a_{i, i-1} x_{i-1}			&+& a_{i, i} x_{i} 			&+& a_{i, i+1} x_{i+1}		&=& b_{i}\\
+	\Leftrightarrow	& a_{i, i-1} x_{i-1}
+\end{array}
 $$
 
 ### (N-1)th row
