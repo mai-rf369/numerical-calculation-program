@@ -240,7 +240,7 @@ $$
 
 $$
 \left\lbrace
-\begin{array}
+\begin{array}{ccc}
 	a_{0, 0}^{'}	&=& 1				\\
 	a_{0, 1}^{'}	&=& \frac{a_{0, 1}}{a_{0, 0}}	\\
 	b_{0}^{'}	&=& \frac{b_{0}}{a_{0, 0}}	\\
