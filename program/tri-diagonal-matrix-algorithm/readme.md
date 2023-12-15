@@ -97,7 +97,7 @@ $$
 \end{align}
 $$
 
-### 0th row
+### (0)th row
 $$
 \begin{align}
 	\begin{pmatrix}
@@ -162,7 +162,7 @@ $$
 \right.
 $$
 
-### ith row
+### (i)th row
 $$
 \begin{align}
 	x_{i} + a_{i, i+1}^{'} x_{i+1} =& b_{0}^{'}
@@ -198,5 +198,5 @@ $$
 \end{align}
 $$
 
-### Nth row
+### (N-1)th row
 
