@@ -100,7 +100,7 @@ $$
 ### 1st row
 $$
 \begin{align}
-	\begin{pmatrix}
+	&\begin{pmatrix}
 		a_{0, 0}	& a_{0, 1}	& 0		& \cdots	& 0		\\
 		\vdots		& \vdots	& \vdots	& \ddots	& \vdots	\\
 		0		& 0		& 0		& \cdots	& a_{N-1, N-1}	\\
@@ -119,10 +119,8 @@ $$
 		b_{2}	\\
 		\vdots	\\
 		b_{N-1}	\\
-	\end{pmatrix}
-\end{align}
-\rightarrow
-\begin{align}
+	\end{pmatrix}\\
+	\text{\rightarrow}&
 	\begin{pmatrix}
 		1		& a_{0, 1}^{'}	& 0		& \cdots	& 0		\\
 		\vdots		& \vdots	& \vdots	& \ddots	& \vdots	\\
@@ -142,7 +140,7 @@ $$
 		b_{2}		\\
 		\vdots		\\
 		b_{N-1}		\\
-	\end{pmatrix}
+	\end{pmatrix}\\
 \end{align}
 $$
 
