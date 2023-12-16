@@ -410,6 +410,35 @@ $$
 		\vdots				\\
 		b_{N-1}				\\
 	\end{pmatrix}\\
+	\Leftrightarrow &
+	\begin{pmatrix}
+		1	& \cdots	& 0		& 0			& 0								& \cdots	& 0		\\
+		\vdots	& \ddots	& \vdots	& \vdots		& \vdots							& 		& \vdots	\\
+		0	& \cdots	& 1		& a_{i-1, i}^{'}	& 0								& \cdots	& 0		\\
+		0	& \cdots	& 0		& 1			& \frac{a_{i, i+1}}{a_{i, i} - a_{i, i-1} a_{i-1, i}^{'}}	& \cdots	& 0		\\
+		0	& \cdots	& 0		& a_{i+1, i}		& a_{i+1, i+1}							& \cdots	& 0		\\
+		\vdots	& 		& \vdots	& \vdots		& \vdots							& \ddots	& \vdots	\\
+		0	& \cdots	& 0		& 0			& 0								& \cdots	& a_{N-1, N-1}	\\
+	\end{pmatrix}
+	\begin{pmatrix}
+		x_{0}	\\
+		\vdots	\\
+		x_{i-1}	\\
+		x_{i}	\\
+		x_{i+1}	\\
+		\vdots	\\
+		x_{N-1}	\\
+	\end{pmatrix}
+	=
+	\begin{pmatrix}
+		b_{0}^{'}									\\
+		\vdots										\\
+		b_{i-1}^{'}									\\
+		\frac{b_{i} - a_{i, i-1} b_{i-1}^{'}}{a_{i, i} - a_{i, i-1} a_{i-1, i}^{'}}	\\
+		b_{i+1}										\\
+		\vdots										\\
+		b_{N-1}										\\
+	\end{pmatrix}\\
 \end{align}
 $$
 
