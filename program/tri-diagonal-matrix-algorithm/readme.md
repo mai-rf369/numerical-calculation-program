@@ -442,6 +442,16 @@ $$
 \end{align}
 $$
 
+$$
+\left\lbrace
+\begin{array}{ccc}
+	a_{i, i-1}^{'}	&=& 0										\\
+	a_{i, i}^{'}	&=& 1										\\
+	a_{i, i+1}^{'}	&=& \frac{a_{i, i+1}}{a_{i, i} - a_{i, i-1} a_{i-1, i}^{'}}			\\
+	b_{0}^{'}	&=& \frac{b_{i} - a_{i, i-1} b_{i-1}^{'}}{a_{i, i} - a_{i, i-1} a_{i-1, i}^{'}}	\\
+\end{array}
+\right.
+$$
 
 #### N-1th row
 
