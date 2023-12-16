@@ -470,10 +470,10 @@ $$
 	\end{pmatrix}
 	=
 	\begin{pmatrix}
-		b_{0}^{'}			\\
-		\vdots				\\
-		b_{N-2}^{'}			\\
-		b_{N-1}				\\
+		b_{0}^{'}	\\
+		\vdots		\\
+		b_{N-2}^{'}	\\
+		b_{N-1}		\\
 	\end{pmatrix}\\
 \end{align}
 $$
