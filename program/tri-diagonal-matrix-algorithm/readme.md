@@ -328,6 +328,7 @@ $$
 		\vdots		\\
 		b_{N-1}		\\
 	\end{pmatrix}\\
+	\Leftrightarrow &
 	\begin{pmatrix}
 		1	& \cdots	& 0		& 0					& 0		& \cdots	& 0		\\
 		\vdots	& \ddots	& \vdots	& \vdots				& \vdots	& 		& \vdots	\\
