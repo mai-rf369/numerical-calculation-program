@@ -163,7 +163,7 @@ $$
 		\vdots	\\
 		b_{N-1}	\\
 	\end{pmatrix}\\
-	\text{Divide the 1st row by } a_{0, 0} \\
+	& \text{Divide the 1st row by } a_{0, 0} \\
 	\Leftrightarrow &
 	\begin{pmatrix}
 		\frac{1}{a_{0, 0}}	& 0		& \cdots	& 0		\\
@@ -280,7 +280,7 @@ $$
 		\vdots		\\
 		b_{N-1}		\\
 	\end{pmatrix}\\
-	\text{Subtract the i-1th row by } a_{i, i-1} \text{ times the i-2th row}	\\
+	& \text{Subtract the i-1th row by } a_{i, i-1} \text{ times the i-2th row}	\\
 	\Leftrightarrow &
 	\begin{pmatrix}
 		1	& \cdots	& 0		& 0		& 0		& \cdots	& 0		\\
