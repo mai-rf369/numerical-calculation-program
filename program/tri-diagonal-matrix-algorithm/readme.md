@@ -454,7 +454,29 @@ $$
 $$
 
 #### N-1th row
-
+$$
+\begin{align}
+	& \begin{pmatrix}
+		1		& \cdots	& 0		& 0			\\
+		\vdots		& \ddots	& \vdots	& \vdots		\\
+		0		& \cdots	& 1		& a_{N-2, N-1}^{'}	\\
+		0		& \cdots	& a_{N-1, N-2}	& a_{N-1, N-1}		\\
+	\end{pmatrix}
+	\begin{pmatrix}
+		x_{0}^{'}	\\
+		\vdots		\\
+		x_{N-2}^{'}	\\
+		x_{N-1}		\\
+	\end{pmatrix}
+	=
+	\begin{pmatrix}
+		b_{0}^{'}			\\
+		\vdots				\\
+		b_{N-2}^{'}			\\
+		b_{N-1}				\\
+	\end{pmatrix}\\
+\end{align}
+$$
 
 
 ### Step 2
