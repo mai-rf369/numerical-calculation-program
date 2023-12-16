@@ -463,9 +463,9 @@ $$
 		0		& \cdots	& a_{N-1, N-2}	& a_{N-1, N-1}		\\
 	\end{pmatrix}
 	\begin{pmatrix}
-		x_{0}^{'}	\\
+		x_{0}		\\
 		\vdots		\\
-		x_{N-2}^{'}	\\
+		x_{N-2}		\\
 		x_{N-1}		\\
 	\end{pmatrix}
 	=
