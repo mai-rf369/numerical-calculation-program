@@ -65,10 +65,6 @@ def main():
 	X = tri_diagonal_matrix_algorithm(A, B)
 	
 	print("Output:")
-	print("A:")
-	print_2d_matrix(A)
-	print("B:")
-	print_2d_matrix(B)
 	print("X:")
 	print_2d_matrix(X)
 
