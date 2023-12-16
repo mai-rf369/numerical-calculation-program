@@ -357,6 +357,7 @@ $$
 		\vdots				\\
 		b_{N-1}				\\
 	\end{pmatrix}\\
+	& \text{Divide the i-1th row by } (a_{i, i} - a_{i, i-1} a_{i-1, i}^{'})	\\
 \end{align}
 $$
 
